@@ -137,3 +137,7 @@ a {
 nav {
   padding-right: 15px;
 }
+
+#logo {
+   height: 50px; 
+}
